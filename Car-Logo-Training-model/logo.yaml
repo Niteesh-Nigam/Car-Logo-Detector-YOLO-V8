@@ -1,0 +1,14 @@
+path: /home/nitzz/PycharmProjects/LP_Detect/Car Logos Detection.v4-final-with-dis-aug.yolov8
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 34
+names: ['Audi', 'Chrysler', 'Citroen', 'GMC', 'Honda', 'Hyundai', 'Infiniti', 'Mazda', 'Mercedes', 'Mercury', 'Mitsubishi', 'Nissan', 'Renault', 'Toyota', 'Volkswagen', 'acura', 'bmw', 'cadillac', 'chevrolet', 'dodge', 'ford', 'jeep', 'kia', 'lexus', 'lincoln', 'mini', 'no class', 'porsche', 'ram', 'range rover', 'skoda', 'subaru', 'suzuki', 'volvo']
+
+roboflow:
+  workspace: new-whnec
+  project: car-logos-detection
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/new-whnec/car-logos-detection/dataset/4
