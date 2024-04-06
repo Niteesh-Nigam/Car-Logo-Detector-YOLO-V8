@@ -1,4 +1,4 @@
-path: /home/nitzz/PycharmProjects/LP_Detect/Car Logos Detection.v4-final-with-dis-aug.yolov8
+path: /home/nitzz/PycharmProjects/Vehicle-Profiling-YOLOV8/Car-Logo-Detector-YOLO-V8/Car-Logo-Training-model/
 train: ../train/images
 val: ../valid/images
 test: ../test/images
