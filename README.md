@@ -2,6 +2,8 @@
 # Project Overview
 This project develops a sophisticated car logo detection system (34 distinct car logos) leveraging the capabilities of YOLOv8, a state-of-the-art object detection model. The repository holds the training scripts, comprehensive configuration details, and robust dataset information to facilitate advanced computer vision tasks in automotive applications.
 
+To access any of my trained models contact me at niteesh.nigam99@gmail.com
+
 # Repository Contents
 YOLO_Resume.py: Python script to resume YOLO model training from the latest checkpoint.
 train_logo.py: Script to start training the YOLO model on car logo images from scratch.
